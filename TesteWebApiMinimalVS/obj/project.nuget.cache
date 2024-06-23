@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j/xaoTTfgPJObjYoss/ACO+qsWhRBJm3t2H+alXKHi2rMKckGOAOfIAjG7YHQUl/fFQ6fYq9nrh7Wjcksn9Hcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iagom\\OneDrive\\Área de Trabalho\\TesteWebApiMinimalVS\\TesteWebApiMinimalVS\\TesteWebApiMinimalVS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iagom\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\iagom\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\iagom\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
